@@ -323,7 +323,7 @@ footer {
 }
 
 .white {
-  color: #fff;
+  color: rgba(255,255,255,1.00);
 }
 
 .pra {
@@ -557,11 +557,11 @@ footer {
 }
 
 .white-clr {
-  color: #fff;
+  color: #FFC631;
 }
 
 .white-bg {
-  background: #fff;
+  background: #FFC631;
 }
 
 .p1-clr {
@@ -569,7 +569,8 @@ footer {
 }
 
 .p1-bg {
-  background: rgb(96, 14, 228);
+ background: linear-gradient(to right, #208FC9,#FB216B);
+
 }
 
 .p2-clr {
@@ -696,7 +697,7 @@ footer {
   }
 }
 .social-text li a {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 0);
   padding: 8px 24px;
   color: rgb(0, 2, 41);
   font-size: 14px;
@@ -705,7 +706,7 @@ footer {
 }
 @media (max-width: 1600px) {
   .social-text li a {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 0);
     padding: 4px 16px;
     color: rgb(0, 2, 41);
     font-size: 12px;
@@ -3825,7 +3826,7 @@ input.main-search-input::placeholder {
   background: rgb(96, 14, 228);
 }
 .section-title h6.white-sub-badge::before {
-  background: #fff !important;
+  background: #FFC631 !important;
 }
 .section-title h6.p2-badge::before {
   background: rgb(255, 206, 90) !important;
