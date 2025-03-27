@@ -3812,10 +3812,11 @@ input.main-search-input::placeholder {
   margin-bottom: 10px;
 }
 .section-title h6 {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  padding-left: 20px;
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    padding-left: 20px;
+    height: auto;
 }
 .section-title h6::before {
   position: absolute;
