@@ -48,6 +48,7 @@ Version: 1.0.0
   overflow: hidden;
   z-index: 0;
   text-align: center;
+  border: #050505;
 }
 .box-style:hover::before {
   width: 400%;
