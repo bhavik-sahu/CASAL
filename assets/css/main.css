@@ -20,6 +20,9 @@ Version: 1.0.0
 .common-btn:hover {
   color: rgb(0, 2, 41);
 }
+.hover {
+    color: fuchsia;
+}
 @media (max-width: 1399px) {
   .common-btn {
     padding: 16px 24px;
