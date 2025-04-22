@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+  <title>Careers Table</title>
+  <!-- TemplateEndEditable -->
+  <style>
+    table {
+      width: 50%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 8px;
+      text-align: left;
+    }
+  .file {
+    font-size: 60px;
+    background-color: silver;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+  </style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+  <h2>Career Opportunities</h2>
+
+  <table>
+	  <tr>
+	  <th>Service</th>
+	  <th>Price</th>
+	  </tr>
+    <tr>
+      <th>Engineer</th>
+      <td>New York</td>
+    </tr>
+    <tr>
+      <th>Designer</th>
+		<td>California</td>
+    </tr>
+    <tr>
+      <th>Manager</th>
+      <td>Texas</td>
+    </tr>
+  </table>
+
+</body>
+</html>
+

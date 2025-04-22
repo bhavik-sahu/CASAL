@@ -10,7 +10,9 @@
     <meta name="author" content="authorName">
     <meta name="description" content="VrTua - Virtual reality services HTML Template">
     <!-- ======== Page title ============ -->
+    <!-- TemplateBeginEditable name="doctitle" -->
     <title>VrTua - Virtual reality services HTML Template</title>
+    <!-- TemplateEndEditable -->
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="assets/img/logo/favs.png">
     <!--<< Bootstrap min.css >>-->
@@ -29,6 +31,8 @@
     <link rel="stylesheet" href="assets/css/nice-select.css">
     <!--<< Main.css >>-->
     <link rel="stylesheet" href="assets/css/main.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
@@ -63,11 +67,13 @@
                 <div class="col-3 loader-section section-left">
                     <div class="bg"></div>
                 </div>
+                <!-- TemplateBeginEditable name="EditRegion1" -->
                 <div class="col-3 loader-section section-left">
-                    <div class="bg"></div>
+                  <div class="bg"></div>
                 </div>
+                <!-- TemplateEndEditable -->
                 <div class="col-3 loader-section section-right">
-                    <div class="bg"></div>
+                  <div class="bg"></div>
                 </div>
                 <div class="col-3 loader-section section-right">
                     <div class="bg"></div>
@@ -162,19 +168,16 @@
         <div class="container">
             <div class="header-top-wrapper">
                 <ul class="contact-list">
-                    <li>
-                        <i class="fa-regular fa-clock p2-clr"></i>
-                        Mon – Sun: 9.00 am – 8.00pm
-                    </li>
+                    
                     <li class="line"></li>
                     <li>
                         <i class="fa-solid fa-envelope p2-clr"></i>
-                        <a href="#" class="link">info@vrtualkart.com</a>
+                        <a href="#" class="link">info@CASAL.com</a>
                     </li>
                     <li class="line"></li>
                     <li>
                         <i class="fa-solid fa-location-dot p2-clr"></i>
-                        <a href="#" class="link">A-1, Envanto HQ, Australia</a>
+                        <a href="#" class="link">A-1, CASAL HQ, INDIA</a>
                     </li>
                 </ul>
                 <div class="header-top-social d-flex align-items-center">
@@ -291,352 +294,306 @@
     </header>
 
     <!--  breadcrumbs Section Start -->
-    <section class="banner-breadcrumbs breadcrumb-blog-details position-relative space-top">
+    <section class="banner-breadcrumbs position-relative section-padding">
         <div class="container">
             <div class="row justify-content-center space-bottom">
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <div class="breadcrumbs-content text-center">
-                        <span class="p1-bg rounded-2 py-2 px-3 white d-inline-block mb-xxl-4 mb-3">let's Connect&nbsp;</span>
-                        <span class="pra d-block mb-xxl-4 mb-3">June 16, 2024 / Comments (02)</span>
-                        <h2 class="fw-bold black mb-lg-4 mb-3 wow fadeInUp" data-wow-delay="0.4s">How CASAL Changes Our
-                        Lives In The Future</h2>
-                        <div class="codexipand-inner d-flex align-items-center justify-content-center gap-4">
-                            <div class="d-flex align-items-center gap-3">
-                                <img src="assets/img/blog/codexipand.png" alt="img" class="rounded-circle">
-                                <div class="cont text-start">
-                                    <span class="pra fs-seven d-block">Writen by</span>
-                                    <span class="fs-six fw_600 black">Codexipand</span>
-                                </div>
-                            </div>
-                            <div class="cont text-start">
-                                <span class="pra fs-seven d-block">Viewed</span>
-                                <span class="fs-six fw_600 black">3 min read</span>
-                            </div>
-                        </div>
+                        <h2 class="fw-bold black mb-lg-3 mb-2 wow fadeInUp" data-wow-delay="0.4s">FAQs Page</h2>
+                        <p class="pra fs-six wow fadeInUp" data-wow-delay="0.5s">
+                            Enjoy the limitless entertainment possibilities with VR. Witness, play, and explore new
+                            worlds
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="common-thumb">
-                <img src="assets/img/about/AdobeStock_162713571_smart-home-scaled.jpeg" alt="img" class="w-100 rounded-3">
+                <img src="assets/img/banner/common-thumb.jpg" alt="img" class="w-100 rounded-3">
             </div>
         </div>
     </section>
     <!--  breadcrumbs Section Start -->
 
-    <!--  Inside Blog Section Start -->
-    <section class="blog-details-section fix space-bottom mt-60">
+    <!-- Faqs Helping Section Start -->
+    <section class="faqs-helping-search fix pt-lg-0 pt-5">
         <div class="container">
-            <div class="row g-4">
-                <div class="col-lg-8">
-                    <div class="blog-details-left">
-                        <div class="mb-60 wow fadeInUp" data-wow-delay="0.2s">
-                            <p class="pra fs-seven mb-xl-4 mb-3">
-                                There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration in form,
-                                by
-                                injected humour, or randomised words which don't look even slightly believable. If you
-                                are going to use a of need to
-                                be
-                                sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum
-                                predefined the generator on
-                                the
-                                Internet. It uses a dictionary of over words,
-                            </p>
-                            <p class="pra fs-seven">
-                                But I must explain to you how all this mistaken idea of denouncing pleasure and praising
-                                pain was born and I will
-                                give
-                                you a complete account of the system, and expound the actual teachings of the great
-                                explorer truth,master-builder of
-                                human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is
-                                pleasure, but because those who
-                                do
-                                not know how to pursue pleasure rationally
-                            </p>
-                        </div>
-                        <div class="straight-pragraph section-bg rounded-3 mb-60 wow fadeInUp" data-wow-delay="0.3s">
-                            <img src="assets/img/icon/straight-quotes.png" alt="img" class="mb-4">
-                            <p class="fs-five fw_500 black mb-4">
-                                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                                consequuntur magni dolores eos qui
-                                ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-                            </p>
-                            <a href="#" class="fs-six black text-decoration-underline fw_600">Nicolas Markon</a>
-                        </div>
-                        <p class="pra fs-seven mb-60 wow fadeInUp" data-wow-delay="0.4s">
-                            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-                            voluptatum deleniti dolores et
-                            quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa
-                            deserunt mollitia animi, id
-                            est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam
-                            libero tempore, cum soluta
-                            nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere
-                            possimus, voluptas assumenda est,
-                            omnis dolor repellendus.
-                        </p>
-                        <div class="mb-60 wow fadeInUp" data-wow-delay="0.5s">
-                            <h3 class="black fw_700 mb-lg-3 mb-2">How to Update your Theme</h3>
-                            <p class="fs-seven pra">These cases are perfectly simple and easy to distinguish. In a free
-                                hour, when our power of choice is untrammelled and
-                                when nothing prevents our being able to do what we like best, every pleasure is to be
-                                welcomed and every pain avoided.
-                                But in certain circumstances and owing to the claims of duty or the obligations of
-                                business it will frequently occur
-                                that pleasures have to be repudiated and annoyances accepted.</p>
-                        </div>
-                        <div class="mb-60 d-flex gap-lg-4 gap-md-3 gap-2 wow fadeInUp" data-wow-delay="0.6s">
-                            <div class="blog-straght-thumb w-100">
-                                <img src="assets/img/banner/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjM1NS1zYXNpLTQ3LXNtYXJ0aG9tZV80LmpwZw.jpg" alt="img" class="rounded-3 w-100">
-                            </div>
-                            <div class="blog-straght-thumb w-100">
-                                <img src="assets/img/new/pexels-mikhail-nilov-6968345.jpg" alt="img" class="rounded-3 w-100">
-                            </div>
-                        </div>
-                        <p class="fs-seven pra mb-60 wow fadeInUp" data-wow-delay="0.4s">
-                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id
-                            quod maxime placeat facere
-                            possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam
-                            et officiis debitis aut
-                            rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non Itaque
-                            rerum hic tenetur a
-                            sapiente delectus, ut aut reiciendis voluptatibus maiores
-                        </p>
-                        <div
-                            class="share-tags-wrap d-flex flex-sm-nowrap flex-wrap gap-3 align-items-center justify-content-sm-between justify-content-center mb-60">
-                            <ul class="share-tag d-flex align-items-center gap-3">
-                                <li class="fs-four fw_700 black sub-font pe-xxl-4">Tags:</li>
-                                <li><a href="Javascript:void(0)">360video</a></li>
-                                <li><a href="Javascript:void(0)">application</a></li>
-                            </ul>
-                            <ul class="share-social d-flex gap-2 align-items-center">
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fa-brands fa-linkedin"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="previus-blog-contest d-flex align-items-center justify-content-between mb-60">
-                            <a href="javascript:void(0)" class="d-flex align-items-center gap-2 fs-seven fw_700 black">
-                                <i class="fa-solid fa-arrow-left"></i> Previous Post
-                            </a>
-                            <a href="javascript:void(0)" class="d-flex align-items-center gap-2 fs-seven fw_700 black">
-                                Next Post <i class="fa-solid fa-arrow-right"></i>
-                            </a>
-                        </div>
-                        <div class="comments-area mb-60">
-                            <h3 class="black fw_700 mb-2">2 Comments</h3>
-                            <div class="comment-inner">
-                                <div class="comment-box d-flex align-items-center gap-sm-4 gap-3 wow fadeInUp"
-                                    data-wow-delay="0.3s">
-                                    <img src="assets/img/team/gordon.jpg" alt="img" class="rounded-circle gordon-thumb">
-                                    <div class="cont">
-                                        <div class="d-flex align-items-end justify-content-between mb-4">
-                                            <div class="text">
-                                                <span class="fs-four fw_700 black d-block mb-1">Jessica Brown</span>
-                                                <span class="fs-seven p1-clr">16 June, 2024, 7:35pm</span>
-                                            </div>
-                                            <button type="button"
-                                                class="rounded-3 replay py-2 px-4 fw_500 black-bg white sub-font">Reply</button>
-                                        </div>
-                                        <p class="fs-seven pra">
-                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-                                            placeat facere possimus, omnis voluptas
-                                            assumenda est, omnis dolor r
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="line"></div>
-                                <div class="comment-box d-flex align-items-center gap-sm-4 gap-3 wow fadeInUp"
-                                    data-wow-delay="0.4s">
-                                    <img src="assets/img/new/niklos.jpg" alt="img" class="rounded-circle gordon-thumb">
-                                    <div class="cont">
-                                        <div class="d-flex align-items-end justify-content-between mb-4">
-                                            <div class="text">
-                                                <span class="fs-four fw_700 black d-block mb-1">Rashed kahan</span>
-                                                <span class="fs-seven p1-clr">16 June, 2024, 7:35pm</span>
-                                            </div>
-                                            <button type="button"
-                                                class="rounded-3 replay py-2 px-4 fw_500 black-bg white sub-font">Reply</button>
-                                        </div>
-                                        <p class="fs-seven pra">
-                                            Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit
-                                            placeat facere possimus, omnis
-                                            voluptas
-                                            assumenda est, omnis dolor r
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="line"></div>
-                            </div>
-                        </div>
-                        <div class="leave-comments">
-                            <h3 class="black fw_700 mb-4">Leave a comment</h3>
-                            <form action="#">
-                                <div class="row g-lg-4 g-3">
-                                    <div class="col-lg-4">
-                                        <input type="text" placeholder="Name">
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <input type="email" placeholder="Email">
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <input type="text" placeholder="Subjects(optional)">
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <textarea name="comments" placeholder="Messages" rows="5"></textarea>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <button type="submit"
-                                            class="common-btn box-style first-box d-inline-flex justify-content-center align-items-center gap-xxl-2 gap-2 fs18 fw-semibold white overflow-hidden p1-bg rounded-2">
-                                            Post Comments
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+            <div class="section-title text-center mb-60">
+                <h6 class="body-font p1-clr mb-xxl-3 mb-sm-3 mb-2 text-uppercase wow fadeInUp" data-wow-delay=".3s">
+                    Frequently Asked Questions
+                </h6>
+                <h2 class="black visible-slowly-right fw-bold d-block">
+                    How Can We Help You?
+                </h2>
+            </div>
+            <form action="#" class="d-flex align-items-center justify-content-between">
+                <input type="text" placeholder="Search Here...">
+                <button type="button"><i class="fa-solid fa-magnifying-glass"></i></button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Faqs Two Section Start -->
+    <section class="faq-section-version2 fix section-padding white-bg">
+        <div class="container">
+            <div class="section-title text-center mb-60">
+                <h6 class="body-font p1-clr mb-xxl-3 mb-sm-3 mb-2 text-uppercase wow fadeInUp" data-wow-delay=".3s">
+                    QUESTIONS & ANSWERS
+                </h6>
+                <h2 class="black visible-slowly-right fw-bold d-block">
+                    Payment Questions
+                </h2>
+            </div>
+            <div class="row g-lg-0 g-4 align-items-center justify-content-lg-between justify-content-center">
+                <div class="col-lg-5">
+                    <div class="faq-thumb-version2 rounded-3 reveal-left w-100">
+                        <img src="assets/img/blog/Smart-Home-Application-1.jpg" alt="img" class="rounded-3 w-100">
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="blog-right-area">
-                        <div class="blog-details-space section-bg rounded-3 wow fadeInUp" data-wow-delay="0.2s">
-                            <form action="#">
-                                <input type="text" placeholder="Search">
-                                <button type="button"><i class="fa-solid fa-magnifying-glass"></i></button>
-                            </form>
-                        </div>
-                        <div class="blog-details-space section-bg rounded-3 wow fadeInUp" data-wow-delay="0.3s">
-                            <h4 class="black mb-4 fw_700">Categories</h4>
-                            <ul class="blog-category">
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        Developer Blog
-                                        <span class="icon"><i class="fa-solid fa-chevron-right"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        Developer Center
-                                        <span class="icon"><i class="fa-solid fa-chevron-right"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        Developer Forums
-                                        <span class="icon"><i class="fa-solid fa-chevron-right"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        Game Development
-                                        <span class="icon"><i class="fa-solid fa-chevron-right"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        Innovation
-                                        <span class="icon"><i class="fa-solid fa-chevron-right"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        Technology
-                                        <span class="icon"><i class="fa-solid fa-chevron-right"></i></span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="blog-details-space section-bg rounded-3 wow fadeInUp" data-wow-delay="0.4s">
-                            <h4 class="black mb-4 fw_700">Latest Post</h4>
-                            <ul class="blog-latest-post">
-                                <li>
-                                    <a href="blog-details.html" class="rounded-circle">
-                                        <img src="assets/img/logo/removebackground1740217249795 2.svg" alt="img" width="100" class="rounded-circle">
-                                    </a>
-                                    <div class="cont">
-                                        <a href="#" class="black fs-six sub-font fw_700 mb-2 d-block">
-                                            Six benefits that the
-                                            new metaverse offer
-                                        </a>
-                                        <div class="d-flex align-items-center gap-2 pra fs-seven">
-                                            <i class="fa-regular fa-clock p1-clr"></i> 16 June 2024
-                                        </div>
+                <div class="col-lg-1 d-lg-block d-none">
+                    <div class="faqs-lines"></div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="accordion faq-content border-0 d-flex flex-column gap-xxl-4 gap-3"
+                        id="accordionExample22">
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="accordion-header" id="headingOne11">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne11" aria-expanded="true" aria-controls="collapseOne11">
+                                    Where are your company branches located?
+                                </button>
+                                <div id="collapseOne11" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne11" data-bs-parent="#accordionExample22">
+                                    <div class="accordion-body">
+                                        <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
+                                            aut fugit, sed quia consequuntur magni dolores</p>
                                     </div>
-                                </li>
-                                <li class="line"></li>
-                                <li>
-                                    <a href="blog-details.html" class="rounded-circle">
-                                        <img src="assets/img/new/smart-speaker-house-control-innovative-technology.jpg" alt="img" width="101" height="101" class="rounded-circle">
-                                    </a>
-                                    <div class="cont">
-                                        <a href="#" class="black fs-six sub-font fw_700 mb-2 d-block">
-                                            Virtual reality support
-                                            & enhance outdoor
-                                        </a>
-                                        <div class="d-flex align-items-center gap-2 pra fs-seven">
-                                            <i class="fa-regular fa-clock p1-clr"></i> 16 June 2024
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="line"></li>
-                                <li>
-                                    <a href="blog-details.html" class="rounded-circle">
-                                        <img src="assets/img/new/ChatGPT Image Apr 3, 2025, 02_41_04 PM.png" alt="img" width="100" height="100" class="rounded-circle">
-                                    </a>
-                                    <div class="cont">
-                                        <a href="#" class="black fs-six sub-font fw_700 mb-2 d-block">
-                                            The Metaverse Will
-                                            Make Gamers Of Us All
-                                        </a>
-                                        <div class="d-flex align-items-center gap-2 pra fs-seven">
-                                            <i class="fa-regular fa-clock p1-clr"></i> 16 June 2024
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                                </div>
+                            </div>
                         </div>
-                        <div class="blog-details-space section-bg rounded-3 wow fadeInUp" data-wow-delay="0.6s">
-                            <h4 class="black mb-4 fw_700">Tags</h4>
-                            <ul class="blog-tags">
-                                <li>
-                                    <a href="javascript:void(0)">
-                                    24 X 7 video
-                                </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        application
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                        emerging tech
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                    GROUND reality
-                                </a>
-                                </li>
-                                <li>
-                                    <a href="javascript:void(0)">
-                                  CONNECTIVITY&nbsp; </a>
-                                </li>
-                            </ul>
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="accordion-header" id="headingTwo22">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo22" aria-expanded="false" aria-controls="collapseTwo22">
+                                    Are Varko A Good Investment?
+                                </button>
+                                <div id="collapseTwo22" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo22" data-bs-parent="#accordionExample22">
+                                    <div class="accordion-body">
+                                        <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
+                                            aut fugit, sed quia consequuntur magni dolores</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                            <div class="accordion-header" id="headingTwo33">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo33" aria-expanded="false" aria-controls="collapseTwo33">
+                                    Can I be a dropshipper for your company?
+                                </button>
+                                <div id="collapseTwo33" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo33" data-bs-parent="#accordionExample22">
+                                    <div class="accordion-body">
+                                        <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
+                                            aut fugit, sed quia consequuntur magni dolores</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="accordion-header" id="headingTwo44">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo44" aria-expanded="false" aria-controls="collapseTwo44">
+                                    What's the best-selling liquid at the moment?
+                                </button>
+                                <div id="collapseTwo44" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo44" data-bs-parent="#accordionExample22">
+                                    <div class="accordion-body">
+                                        <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
+                                            aut fugit, sed quia consequuntur magni dolores</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="accordion-header" id="headingTwo55">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo55" aria-expanded="false" aria-controls="collapseTwo55">
+                                    What brands are you selling at the moment?
+                                </button>
+                                <div id="collapseTwo55" class="accordion-collapse collapse"
+                                    aria-labelledby="headingTwo55" data-bs-parent="#accordionExample22">
+                                    <div class="accordion-body">
+                                        <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
+                                            aut fugit, sed quia consequuntur magni dolores</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--  Inside Blog Section End -->
+
+    <!-- Faqs Section Start -->
+    <section class="faq-section section-padding">
+        <div class="container">
+            <div class="section-title text-center mb-60">
+                <h2 class="black visible-slowly-right fw-bold d-block">
+                    Some Of The Most Frequently Asked <br>
+                    Questions About Our Services
+                </h2>
+            </div>
+            <div class="accordion faq-content border-0 d-flex flex-column gap-xxl-4 gap-3" id="accordionExample">
+                <div class="accordion-item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            What brands are you selling at the moment?
+                        </button>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                    fugit, sed quia consequuntur magni dolores eos qui
+                                    ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia
+                                    dolor sit amet, consectetur,</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="accordion-header" id="headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Facilisis massa orci sit elementum eget rhoncus arcu?
+                        </button>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                    fugit, sed quia consequuntur magni
+                                    dolores eos qui
+                                    ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia
+                                    dolor sit amet, consectetur,</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="accordion-header" id="headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Cras et vulputate laoreet at pellentesque amet sapien?
+                        </button>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                    fugit, sed quia consequuntur magni
+                                    dolores eos qui
+                                    ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia
+                                    dolor sit amet, consectetur,</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="accordion-header" id="headingfour">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                            Luctus bibendum pharetra porta a scelerisque ridiculus natoque?
+                        </button>
+                        <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="pra">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                                    fugit, sed quia consequuntur magni
+                                    dolores eos qui
+                                    ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia
+                                    dolor sit amet, consectetur,</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gest Start Section Start -->
+    <section class="get-start-section fix section-padding">
+        <div class="container">
+            <div class="partnert-get-wrapper space-bottom space-top rounded-3 text-center">
+                <div class="section-title">
+                    <h6 class="body-font white-sub-badge white mb-xxl-4 mb-sm-3 mb-3 text-uppercase wow fadeInUp"
+                        data-wow-delay=".3s">
+                        GET STARTED
+                    </h6>
+                    <h2 class="white visible-slowly-bottom fw-bold d-block mb-40">
+                        Discover the possibilities of virtual
+                        reality for your business.
+                    </h2>
+                    <a href="contact.html"
+                        class="common-btn box-style first-box d-inline-flex justify-content-center align-items-center gap-xxl-2 gap-2 fs18 fw-semibold black overflow-hidden p2-bg rounded-2">
+                        Contact With Us
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GetinTouch Section Start -->
+    <section class="getin-touch section-padding cmnbg-bg">
+        <div class="container position-relative">
+            <div class="getin-touch-wrap white-bg rounded-2 position-relative">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="getin-touch">
+                            <div class="section-title">
+                                <h6 class="body-font left-sub-maintain mb-xxl-3 mb-sm-3 mb-2 text-uppercase wow fadeInUp"
+                                    data-wow-delay=".3s">GET IN TOUCH
+                                </h6>
+                                <h2 class="black visible-slowly-right fw-bold d-block mb-xxl-4 mb-lg-3 mb-2">
+                                    Need Help? Contact
+                                    our Support Team
+                                </h2>
+                                <p class="pra mb-xxl-4 mb-3 visible-from-bottom">Nemo enim ipsam voluptatem quia
+                                    voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores</p>
+                                <h4 class="black fw-bold mb-1">We’r always happy to help.</h4>
+                                <a href="#" class="black fw-semibold fs-six">&nbsp;</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 get-in-touch wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="row g-xxl-4 g-3">
+                            <div class="col-lg-12">
+                                <input type="text" placeholder="Your Name">
+                            </div>
+                            <div class="col-lg-6">
+                                <input type="email" placeholder="Your Email">
+                            </div>
+                            <div class="col-lg-6">
+                                <input type="text" placeholder="Your Number">
+                            </div>
+                            <div class="col-lg-12">
+                                <textarea name="get-intouch" rows="5" placeholder="Your Message"></textarea>
+                            </div>
+                            <div class="col-lg-12">
+                                <button type="button"
+                                    class="common-btn w-100 box-style first-box d-inline-flex justify-content-center align-items-center gap-xxl-2 gap-2 fs18 fw-semibold white overflow-hidden p1-bg rounded-2">
+                                    Send Message
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Element -->
+            </div>
+            <img src="assets/img/element/get-shape.png" alt="img" class="get-shape black">
+            <img src="assets/img/element/get-elment.png" alt="img" class="get-element">
+        </div>
+    </section>
 
     <!--<< Footer Section Start >>-->
     <footer class="footer-section blackbg fix">
@@ -647,7 +604,7 @@
                         <div class="footer-widget text-md-start text-center">
                             <div class="pragraph-widget d-grid gap-xxl-4 gap-3">
                                 <p class="fw_600">
-                                  Discover the possibilities of connectivity for your home.
+                                  Discover the possibilities of connectivityfor your home.
                               </p>
                                 <span class="fs-five white-clr">We are ready to help</span>
                                 <a href="#" class="fs-four d-block white-clr">+1900 123 453789</a>
@@ -671,10 +628,10 @@
                         <div class="footer-widget footer-latest">
                             <h4 class="white-clr fw_600">&nbsp;</h4>
                             <ul class="latest-post">
-                              <li><a href="blog.html"></a></li>
+                              <li></li>
                                 <li><a href="blog.html"></a></li>
                                 <li><a href="blog.html"></a></li>
-                                <li></li>
+                                <li><a href="blog.html"></a></li>
                                 <li><a href="blog.html"></a></li>
                                 <li><a href="blog.html"></a></li>
                             </ul>

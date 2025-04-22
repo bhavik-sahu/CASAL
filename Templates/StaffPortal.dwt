@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Staff Portal</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <h1>Welcome to the Staff Portal</h1>
+  <!-- TemplateEndEditable --> </header>
+
+  <div class="container">
+    <div class="col-6">
+		
+      <!-- TemplateBeginEditable name="Main" -->
+      <p>This is where staff announcements will appear. Please stay updated with the latest news and events.</p>
+    <!-- TemplateEndEditable --> </div>
+    <div class="col-6">
+      <p>This section may contain other staff tools or quick links.</p>
+    </div>
+</div>
+
+  <footer>
+    <p>&copy; 2025 Staff Portal</p>
+  </footer>
+
+</body>
+</html>
+
+
